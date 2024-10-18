@@ -15,8 +15,10 @@ You can look foward to my coding skill after 1 year.
 
 >#### GOAL ＼＼\(۶•̀ᴗ•́)۶//／／
 
-My goal is simple.
-BE NICE and BE BEST. that's all. 
+1. 싸피 무사히 졸업
+2. 취업
+3. 건강하기
+4. 여러가지 프로젝트 해보기
 
 
 ---
