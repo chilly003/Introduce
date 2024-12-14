@@ -5,19 +5,16 @@
 
 
 ### **연락처**
-![web](https://github.com/user-attachments/assets/b733b5df-4835-48fe-8678-a1fa916cc63b)
 > 010-5227-0729
 
 ---
 
 ### **이메일**
-![mail](https://github.com/user-attachments/assets/352da915-c40c-46ca-a0e0-292c95c4c5f6)
 > chfhchf03@naver.com
 
 ---
 
 ### **GitHub**
-![phone](https://github.com/user-attachments/assets/70496810-dc8b-4960-b934-cb65b0af86d2)
 > [https://github.com/chilly003/readme](https://github.com/chilly003/readme)
 
 ---
