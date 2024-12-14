@@ -1,27 +1,23 @@
-아래는 요청하신 상단 정보와 기존 리드미 내용을 통합하여 새롭게 작성된 깔끔한 GitHub 리드미입니다.
 
 ---
 
 ## **정효원의 개발 포트폴리오**
 
-증명사진
-
----
 
 ### **연락처**
-phone.svg  
+![web](https://github.com/user-attachments/assets/b733b5df-4835-48fe-8678-a1fa916cc63b)
 > 010-5227-0729
 
 ---
 
 ### **이메일**
-mail.svg  
+![mail](https://github.com/user-attachments/assets/352da915-c40c-46ca-a0e0-292c95c4c5f6)
 > chfhchf03@naver.com
 
 ---
 
 ### **GitHub**
-web.svg  
+![phone](https://github.com/user-attachments/assets/70496810-dc8b-4960-b934-cb65b0af86d2)
 > [https://github.com/chilly003/readme](https://github.com/chilly003/readme)
 
 ---
@@ -89,8 +85,3 @@ web.svg
 - **Notion 포트폴리오**: [Notion Link](https://www.notion.so/15860a1ef6728071ae79c6b655775ebc?pvs=21)
 
 ---
-
-이 리드미는 상단에 연락처와 개인 정보를 추가해 한눈에 확인할 수 있도록 구성했으며, 전체적으로 깔끔하고 직관적인 구조를 유지했습니다. 필요 시 프로젝트 섹션 등에 세부 정보를 추가하면 더욱 풍성하게 활용할 수 있습니다! 😊
-
-Citations:
-[1] https://prod-files-secure.s3.us-west-2.amazonaws.com/f0c7d6eb-9495-4c07-92c8-cdeb0aab59d7/0c9b6e20-ca40-4a3d-a5f9-463a467b3924/8516a6b0-3f4e-4aa3-8b45-f669cc617914.png
