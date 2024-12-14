@@ -4,20 +4,10 @@
 ## **정효원의 개발 포트폴리오**
 
 
-### **연락처**
-> 010-5227-0729
+| **연락처** | **이메일** | **GitHub** |
+|------------|------------|------------|
+| 010-5227-0729 | chfhchf03@naver.com | [GitHub Profile](https://github.com/chilly003/readme) |
 
----
-
-### **이메일**
-> chfhchf03@naver.com
-
----
-
-### **GitHub**
-> [https://github.com/chilly003/readme](https://github.com/chilly003/readme)
-
----
 
 ## **소개 (Intro)**  
 > **"함께하는 성장을 목표로 하는 신입 { } 개발자 정효원입니다."**
