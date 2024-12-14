@@ -44,13 +44,13 @@
 ### **Collaboration Tools**  
 | Notion 🟦🟦🟦🟦🟦 | Figma 🟦🟦🟦🟦⬜ |
 
----
+
 
 ## **프로젝트 (Projects)**  
 
 > .
 
-
+<br />
 
 ## **교육 및 자격증 (Education & Certificates)**  
 
