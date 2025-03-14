@@ -36,13 +36,13 @@
 ## **기술 스택 (Tech Stack)**  
 
 ### **Programming Languages**  
-| Python 🟦🟦🟦🟦🟦 | JavaScript 🟦🟦🟦🟦⬜ | Java 🟦🟦🟦⬜⬜ |
+| Python | JavaScript | Java |
 
 ### **Frameworks**  
-| Django 🟦🟦🟦🟦⬜ | React 🟦🟦🟦🟦🟦 | Vue 🟦🟦🟦🟦🟦 |
+| Django  | React | Vue |
 
 ### **Collaboration Tools**  
-| Notion 🟦🟦🟦🟦🟦 | Figma 🟦🟦🟦🟦⬜ |
+| Notion | Figma |
 
 <br />
 
